@@ -2,7 +2,7 @@
 
 I am a Junior Full-Stack Developer based in Milan, Italy.
 
-- 👩‍💻 I am specialised in the following languages and frameworks: HTML, CSS, JavaScript, Bootstrap, React, PHP and Laravel.
+- 👩‍💻 I specialise in the following languages and frameworks: HTML, CSS, JavaScript, Bootstrap, React, PHP and Laravel.
 - 👩‍🎓 I am currently enrolled in the <a href="https://aulab.it/" target="_blank">Aulab</a> Coding Bootcamp for Full-Stack Development.
 - 👩‍🎓 I have graduated from the <a href="https://www.shecodes.io/" target="_blank">SheCodes</a> Coding Bootcamp for Front-End Development.
 - 😀 I speak Italian and English.
