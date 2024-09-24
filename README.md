@@ -1,4 +1,4 @@
 ### Hi! I am Giorgia! 👋
 
-I am a Junior Front-End Developer based in Milan, Italy.
+I am a Front-End Developer based in Milan, Italy.
 
